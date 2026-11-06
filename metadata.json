@@ -1,0 +1,6 @@
+{
+  "name": "File Manager",
+  "description": "Fast, modern Material 3 file explorer to manage, organize, view, edit, and analyze storage files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
